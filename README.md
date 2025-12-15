@@ -43,11 +43,20 @@ The application should now be accessible in your browser, typically at `http://l
 
 ## Screenshots
 
-### Welcome Screen
-![Welcome Screen](screenshots/screenshot1.png)
+### Tokyo Weather
+![Tokyo Weather](screenshots/tokyo.png)
 
-### Weather Result Example
-![Weather Result](screenshots/screenshot2.png)
+### Mumbai Weather
+![Mumbai Weather](screenshots/mumbai.png)
+
+### New York Weather
+![New York Weather](screenshots/new%20york.png)
+
+### Pune Weather
+![Pune Weather](screenshots/pune.png)
+
+### London Weather
+![London Weather](screenshots/london.png)
 
 ## How to Share (Temporary - using ngrok)
 
