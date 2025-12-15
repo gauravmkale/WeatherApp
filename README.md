@@ -43,7 +43,11 @@ The application should now be accessible in your browser, typically at `http://l
 
 ## Screenshots
 
-*(Placeholder for screenshots - you can add them to the `screenshots/` directory and link them here)*
+### Welcome Screen
+![Welcome Screen](screenshots/screenshot1.png)
+
+### Weather Result Example
+![Weather Result](screenshots/screenshot2.png)
 
 ## How to Share (Temporary - using ngrok)
 
