@@ -1,9 +1,9 @@
 # Weather Time-Traveler: An AI-Powered Interactive Weather Experience
 
-## 🚀 Overview
+##  Overview
 The **Weather Time-Traveler** transforms a static weather report into a dynamic, interactive journey through time. Beyond just current conditions, it provides historical and forecasted weather with a fluid, scrubber-based interface, intelligent AI briefings, and visually stunning celestial mechanics.
 
-## ✨ Key Features
+##  Key Features
 
 -   **Interactive Time Scrubber:** Seamlessly scrub through 72 hours of past, present, and future weather.
     *   **Fluid UX:** Instantly updates weather data, visuals, and AI briefings as you navigate the timeline.
@@ -15,7 +15,7 @@ The **Weather Time-Traveler** transforms a static weather report into a dynamic,
 -   **Enhanced Weather Dashboard:** A clean, glassmorphism-inspired interface that presents key data (temperature, feels like, humidity, wind speed) at a glance.
 -   **Responsive & Intuitive Design:** Optimized layout for a smooth user experience across various screen sizes.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 ### Backend
 -   **FastAPI**: Modern, fast (high-performance) web framework for Python.
@@ -30,7 +30,7 @@ The **Weather Time-Traveler** transforms a static weather report into a dynamic,
 -   **Axios**: Promise-based HTTP client for making API requests.
 -   **CSS3**: Advanced styling for dynamic backgrounds, glassmorphism effects, and animations.
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 -   **Node.js** (16+)
@@ -63,7 +63,7 @@ npm run dev
 ```
 The application will open at `http://localhost:5173`.
 
-## 🧠 How It Works
+##  How It Works
 
 1.  **User Input:** Enter a city name into the search bar.
 2.  **Weather Data Fetch (Backend):** The `get_weather` tool (managed by a LangChain agent) queries Open-Meteo for 72 hours of historical and forecasted hourly weather data. It also extracts a "current snapshot" and "trend" (e.g., warmer than yesterday).
